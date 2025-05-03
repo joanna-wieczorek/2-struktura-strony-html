@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    display: block;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    text-align: left;
+    margin-left: 20%;
+    margin-top: 0.5%;
+}
+
+header {
+    background-color: rgb(228, 143, 64);
+}
+
+section {
+    background-color: rgb(91, 155, 91);
+}
+
+footer {
+    background-color: rgb(204, 202, 202);
+}
+
+.stopka {
+    text-align: center;
+}
+
+p {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 1%;
+    text-align: left;
+}
